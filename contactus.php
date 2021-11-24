@@ -23,7 +23,7 @@
     <nav id="navbar" style="border-radius: 0; transition: all .5s ease;"
         class="navbar navbar-expand-md navbar-light fixed-top">
         <div class="container" id="nav-container">
-            <a class="navbar-brand" href="./index.html" aria-label="Logo">
+            <a class="navbar-brand" href="./index.php" aria-label="Logo">
                 <div id="logo">
                 </div>
             </a>
@@ -50,7 +50,7 @@
                 </div>
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="./index.html">Home</a>
+                        <a class="nav-link" href="./index.php">Home</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="./aboutus.html">About Us</a>

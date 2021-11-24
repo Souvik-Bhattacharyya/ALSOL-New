@@ -23,7 +23,7 @@
     <nav id="navbar" style="border-bottom-radius: 0; transition: all .5s ease;"
         class="navbar navbar-expand-md navbar-light fixed-top">
         <div class="container" id="nav-container">
-            <a class="navbar-brand" href="./index.html" aria-label="Logo">
+            <a class="navbar-brand" href="./index.php" aria-label="Logo">
                 <div id="logo">
                 </div>
             </a>
